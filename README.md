@@ -1,5 +1,7 @@
 # OORep Live
 
+**Tags:** `electron` `desktop-app` `homeopathy` `repertory` `cross-platform` `offline-first` `sqlite` `typescript`
+
 **A cross-platform (macOS & Linux) Electron desktop app for the OOREP homeopathic repertory — with a live data window.**
 
 Offline, practitioner-owned, no cloud. Built from the [OOREP local repertory](../oorep-local-repertory) project's data and algorithms.
@@ -32,9 +34,20 @@ Notable parity details:
 ## Build & run (dev)
 
 ```bash
+git clone https://github.com/drwjkirkpatrick-web/oorep-local-repertory.git   # data source
+git clone https://github.com/drwjkirkpatrick-web/oorep-live.git && cd oorep-live
+
+# link the data source (or point OOREP_DATA at your copy of the project)
+ln -sfn ../oorep-local-repertory/data/remedies.json data-sources/remedies.json
+ln -sfn ../oorep-local-repertory/data/rubrics.json data-sources/rubrics.json
+ln -sfn ../oorep-local-repertory/data/rubric_to_remedies.json data-sources/rubric_to_remedies.json
+ln -sfn ../oorep-local-repertory/data/rubric_search_index.json data-sources/rubric_search_index.json
+ln -sfn ../oorep-local-repertory/data/metadata.json data-sources/metadata.json
+ln -sfn ../oorep-local-repertory/data/cycles data-sources/cycles
+
 npm install
 npm run build:ts        # compile main/preload TypeScript
-npm run build:db        # build data/oorep.sqlite from data-sources/ (symlinks to the OOREP project)
+npm run build:db        # build data/oorep.sqlite from data-sources/
 npm start               # run the app (expects data/oorep.sqlite)
 ```
 
