@@ -1,0 +1,153 @@
+{
+ "can't sleep": [
+  "sleep",
+  "sleeplessness",
+  "insomnia",
+  "waking"
+ ],
+ "cant sleep": [
+  "sleep",
+  "sleeplessness",
+  "insomnia",
+  "waking"
+ ],
+ "cannot sleep": [
+  "sleep",
+  "sleeplessness",
+  "insomnia",
+  "waking"
+ ],
+ "insomnia": [
+  "sleep",
+  "sleeplessness",
+  "waking"
+ ],
+ "sleepless": [
+  "sleep",
+  "sleeplessness"
+ ],
+ "3am": [
+  "night",
+  "after midnight",
+  "morning",
+  "waking"
+ ],
+ "3 a.m.": [
+  "night",
+  "after midnight",
+  "morning",
+  "waking"
+ ],
+ "after 3": [
+  "night",
+  "after midnight",
+  "morning",
+  "waking"
+ ],
+ "after midnight": [
+  "night",
+  "midnight",
+  "waking"
+ ],
+ "small sips": [
+  "thirst",
+  "small quantities",
+  "often"
+ ],
+ "little sips": [
+  "thirst",
+  "small quantities",
+  "often"
+ ],
+ "sip": [
+  "thirst",
+  "small quantities"
+ ],
+ "sips": [
+  "thirst",
+  "small quantities"
+ ],
+ "small quantities": [
+  "thirst",
+  "small quantities"
+ ],
+ "head hurts": [
+  "head",
+  "pain",
+  "headache"
+ ],
+ "head ache": [
+  "head",
+  "pain",
+  "headache"
+ ],
+ "headache": [
+  "head",
+  "pain",
+  "headache"
+ ],
+ "hurts": [
+  "pain"
+ ],
+ "ache": [
+  "pain"
+ ],
+ "worried": [
+  "anxiety",
+  "fear",
+  "mind"
+ ],
+ "worry": [
+  "anxiety",
+  "fear",
+  "mind"
+ ],
+ "anxious": [
+  "anxiety",
+  "fear",
+  "mind"
+ ],
+ "anxiety": [
+  "anxiety",
+  "fear",
+  "mind"
+ ],
+ "about health": [
+  "health",
+  "about",
+  "disease",
+  "illness"
+ ],
+ "health anxiety": [
+  "anxiety",
+  "health",
+  "about"
+ ],
+ "worse": [
+  "aggravation",
+  "agg",
+  "worse"
+ ],
+ "better": [
+  "amelioration",
+  "amel",
+  "better"
+ ],
+ "morning": [
+  "morning",
+  "mornings"
+ ],
+ "evening": [
+  "evening",
+  "night"
+ ],
+ "cold drinks": [
+  "cold",
+  "drinks",
+  "water"
+ ],
+ "warmth": [
+  "warm",
+  "heat"
+ ]
+}

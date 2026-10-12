@@ -1,0 +1,63 @@
+{
+  "name": "oorep-live",
+  "productName": "OORep Live",
+  "version": "1.0.0",
+  "description": "OORep Live — offline homeopathic repertory desktop app with live data monitoring (macOS & Linux)",
+  "main": "dist/main/main.js",
+  "license": "GPL-3.0",
+  "author": "Walker <walker@local>",
+  "private": true,
+  "scripts": {
+    "build:ts": "tsc -p tsconfig.json",
+    "build:db": "node --max-old-space-size=2600 scripts/build-db.mjs",
+    "goldens": "/usr/bin/python3 scripts/gen_goldens.py",
+    "icons": "/usr/bin/python3 scripts/make_icons.py",
+    "start": "electron .",
+    "test": "npm run build:ts && node --test test/engine.test.mjs",
+    "test:e2e": "node test/e2e.test.mjs",
+    "dist:linux:arm64": "electron-builder --linux zip --arm64",
+    "dist:linux:x64": "electron-builder --linux zip --x64",
+    "dist:mac:arm64": "electron-builder --mac zip --arm64",
+    "dist:mac:x64": "electron-builder --mac zip --x64",
+    "dist": "electron-builder --linux zip --arm64 --x64 && electron-builder --mac zip --arm64 --x64"
+  },
+  "dependencies": {
+    "sql.js": "1.14.2"
+  },
+  "devDependencies": {
+    "electron": "44.7.0",
+    "electron-builder": "26.15.3",
+    "typescript": "^5.9.3",
+    "@types/node": "^22.19.0"
+  },
+  "build": {
+    "appId": "org.oorep.live",
+    "productName": "OORep Live",
+    "copyright": "GPL v3 — data © OOREP (Andreas Bauer)",
+    "asar": true,
+    "icon": "build/icon.icns",
+    "directories": { "output": "release" },
+    "files": [
+      "dist/**/*",
+      "src/renderer/**/*",
+      "package.json",
+      "!**/*.ts",
+      "!scripts/**",
+      "!test/**"
+    ],
+    "extraResources": [
+      { "from": "data", "to": "data", "filter": ["oorep.sqlite"] }
+    ],
+    "linux": {
+      "target": ["zip"],
+      "category": "Science",
+      "icon": "build/icons",
+      "artifactName": "OORep-Live-${version}-linux-${arch}.${ext}"
+    },
+    "mac": {
+      "target": ["zip"],
+      "category": "public.app-category.medical",
+      "artifactName": "OORep-Live-${version}-mac-${arch}.${ext}"
+    }
+  }
+}

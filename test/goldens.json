@@ -1,0 +1,7495 @@
+{
+ "generated": "2026-10-11T23:58:59",
+ "hybrid": [
+  {
+   "query": "headache morning",
+   "results": [
+    {
+     "id": 31799,
+     "fullpath": "Eye, swollen, morning, headache, after",
+     "source": "publicum",
+     "hybrid": 0.69
+    },
+    {
+     "id": 15493,
+     "fullpath": "Extremities, coldness, foot, morning, breakfast, after, during headache",
+     "source": "publicum",
+     "hybrid": 0.625077
+    },
+    {
+     "id": 46262,
+     "fullpath": "Mind, anxiety, salvation, about, morning",
+     "source": "publicum",
+     "hybrid": 0.6
+    },
+    {
+     "id": 30607,
+     "fullpath": "Eye, heaviness, lids, frontal headache",
+     "source": "publicum",
+     "hybrid": 0.6
+    },
+    {
+     "id": 30741,
+     "fullpath": "Eye, itching, lids, morning",
+     "source": "publicum",
+     "hybrid": 0.464615
+    },
+    {
+     "id": 30547,
+     "fullpath": "Eye, falling of lids, during headache",
+     "source": "publicum",
+     "hybrid": 0.464615
+    },
+    {
+     "id": 56830,
+     "fullpath": "Sleep, falling asleep, morning",
+     "source": "publicum",
+     "hybrid": 0.464615
+    },
+    {
+     "id": 31187,
+     "fullpath": "Eye, pain, lids, morning",
+     "source": "publicum",
+     "hybrid": 0.464615
+    },
+    {
+     "id": 30608,
+     "fullpath": "Eye, heaviness, lids, morning",
+     "source": "publicum",
+     "hybrid": 0.464615
+    },
+    {
+     "id": 31683,
+     "fullpath": "Eye, redness, lids, morning",
+     "source": "publicum",
+     "hybrid": 0.464615
+    }
+   ]
+  },
+  {
+   "query": "dry cough evening",
+   "results": [
+    {
+     "id": 11573,
+     "fullpath": "Cough, dry, evening",
+     "source": "publicum",
+     "hybrid": 0.758333
+    },
+    {
+     "id": 11550,
+     "fullpath": "Cough, dry, chronic dry cough in pining boys",
+     "source": "publicum",
+     "hybrid": 0.587378
+    },
+    {
+     "id": 11555,
+     "fullpath": "Cough, dry, coryza, during, evening",
+     "source": "publicum",
+     "hybrid": 0.502266
+    },
+    {
+     "id": 11577,
+     "fullpath": "Cough, dry, evening, inhalation agg.",
+     "source": "publicum",
+     "hybrid": 0.468932
+    },
+    {
+     "id": 11581,
+     "fullpath": "Cough, dry, evening, midnight, until",
+     "source": "publicum",
+     "hybrid": 0.468932
+    },
+    {
+     "id": 11584,
+     "fullpath": "Cough, dry, evening, smoking, from",
+     "source": "publicum",
+     "hybrid": 0.468932
+    },
+    {
+     "id": 11616,
+     "fullpath": "Cough, dry, morning, loose in, evening",
+     "source": "publicum",
+     "hybrid": 0.425253
+    },
+    {
+     "id": 11963,
+     "fullpath": "Cough, loose, evening, dry in morning",
+     "source": "publicum",
+     "hybrid": 0.425253
+    },
+    {
+     "id": 11574,
+     "fullpath": "Cough, dry, evening, 6 p.m.",
+     "source": "publicum",
+     "hybrid": 0.39192
+    },
+    {
+     "id": 11575,
+     "fullpath": "Cough, dry, evening, 7 p.m.",
+     "source": "publicum",
+     "hybrid": 0.39192
+    }
+   ]
+  },
+  {
+   "query": "anxiety about health",
+   "results": [
+    {
+     "id": 46199,
+     "fullpath": "Mind, anxiety, health, about",
+     "source": "publicum",
+     "hybrid": 0.933333
+    },
+    {
+     "id": 46200,
+     "fullpath": "Mind, anxiety, health, about, especially during climacteric period",
+     "source": "publicum",
+     "hybrid": 0.638095
+    },
+    {
+     "id": 103724,
+     "fullpath": "Mind, anxiety, health",
+     "source": "publicum",
+     "hybrid": 0.552302
+    },
+    {
+     "id": 46130,
+     "fullpath": "Mind, anxiety, business, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 46197,
+     "fullpath": "Mind, anxiety, future, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 46261,
+     "fullpath": "Mind, anxiety, salvation, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 46298,
+     "fullpath": "Mind, anxiety, trifles, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 68931,
+     "fullpath": "Mind, anxiety, death, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 68933,
+     "fullpath": "Mind, anxiety, disease about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    },
+    {
+     "id": 101703,
+     "fullpath": "Mind, anxiety, travelling, about",
+     "source": "publicum",
+     "hybrid": 0.460344
+    }
+   ]
+  },
+  {
+   "query": "sleepless after midnight",
+   "results": [
+    {
+     "id": 60992,
+     "fullpath": "Teeth, pain, stitching, night, after midnight, amel. after rising",
+     "source": "publicum",
+     "hybrid": 0.741912
+    },
+    {
+     "id": 60867,
+     "fullpath": "Teeth, pain, night, midnight, after",
+     "source": "publicum",
+     "hybrid": 0.60433
+    },
+    {
+     "id": 69086,
+     "fullpath": "Teeth, midnight",
+     "source": "publicum",
+     "hybrid": 0.583333
+    },
+    {
+     "id": 69069,
+     "fullpath": "Bladder, midnight",
+     "source": "publicum",
+     "hybrid": 0.583333
+    },
+    {
+     "id": 60805,
+     "fullpath": "Teeth, pain, jerking, night, after midnight",
+     "source": "publicum",
+     "hybrid": 0.52982
+    },
+    {
+     "id": 60991,
+     "fullpath": "Teeth, pain, stitching, night, after midnight",
+     "source": "publicum",
+     "hybrid": 0.52982
+    },
+    {
+     "id": 60462,
+     "fullpath": "Teeth, clinched firmly, midnight, after",
+     "source": "publicum",
+     "hybrid": 0.51683
+    },
+    {
+     "id": 61050,
+     "fullpath": "Teeth, pain, tearing, night, midnight, after",
+     "source": "publicum",
+     "hybrid": 0.496487
+    },
+    {
+     "id": 46235,
+     "fullpath": "Mind, anxiety, night, midnight, after, 3 a.m., after",
+     "source": "publicum",
+     "hybrid": 0.46444
+    },
+    {
+     "id": 54726,
+     "fullpath": "Respiration, asthmatic, night, midnight, after",
+     "source": "publicum",
+     "hybrid": 0.412908
+    }
+   ]
+  },
+  {
+   "query": "thirst small sips",
+   "results": [
+    {
+     "id": 104087,
+     "fullpath": "Stomach, thirst, small quantities",
+     "source": "publicum",
+     "hybrid": 0.743595
+    },
+    {
+     "id": 59743,
+     "fullpath": "Stomach, thirst, small quantities, for",
+     "source": "publicum",
+     "hybrid": 0.613901
+    },
+    {
+     "id": 63501,
+     "fullpath": "Vision, blurred, overheated",
+     "source": "publicum",
+     "hybrid": 0.55
+    },
+    {
+     "id": 59744,
+     "fullpath": "Stomach, thirst, small quantities, for, often",
+     "source": "publicum",
+     "hybrid": 0.517831
+    },
+    {
+     "id": 34343,
+     "fullpath": "Fever, succession of stages, chill followed, thirst, then heat without thirst",
+     "source": "publicum",
+     "hybrid": 0.383333
+    },
+    {
+     "id": 101814,
+     "fullpath": "Mind, delusions, small, people appear small",
+     "source": "publicum",
+     "hybrid": 0.383333
+    },
+    {
+     "id": 63474,
+     "fullpath": "Vision",
+     "source": "publicum",
+     "hybrid": 0.360262
+    },
+    {
+     "id": 64192,
+     "fullpath": "Vision, small, objects seem",
+     "source": "publicum",
+     "hybrid": 0.360262
+    },
+    {
+     "id": 63910,
+     "fullpath": "Vision, flickering",
+     "source": "publicum",
+     "hybrid": 0.360262
+    },
+    {
+     "id": 101063,
+     "fullpath": "Vision, acute, small objects, for",
+     "source": "publicum",
+     "hybrid": 0.263901
+    }
+   ]
+  },
+  {
+   "query": "head pain worse cold",
+   "results": [
+    {
+     "id": 66868,
+     "fullpath": "Head, pain, cold",
+     "source": "publicum",
+     "hybrid": 0.575
+    },
+    {
+     "id": 40503,
+     "fullpath": "Head, pain, cold, becoming, from, head getting cold, on",
+     "source": "publicum",
+     "hybrid": 0.456489
+    },
+    {
+     "id": 40440,
+     "fullpath": "Head, pain, bursting, occiput, extending over head, beginning in upper cervical region, causing bursting pain in forehead and eyeballs agg. 10 a.m. while lying, nausea, cold sweat and cold feet",
+     "source": "publicum",
+     "hybrid": 0.4
+    },
+    {
+     "id": 40047,
+     "fullpath": "Head, pain, bathing, cold",
+     "source": "publicum",
+     "hybrid": 0.354442
+    },
+    {
+     "id": 102242,
+     "fullpath": "Head, pain, wind, cold",
+     "source": "publicum",
+     "hybrid": 0.354442
+    },
+    {
+     "id": 65764,
+     "fullpath": "Extremities, pain, leg, cold",
+     "source": "publicum",
+     "hybrid": 0.354442
+    },
+    {
+     "id": 44215,
+     "fullpath": "Head, pain, weather, cold",
+     "source": "publicum",
+     "hybrid": 0.354442
+    },
+    {
+     "id": 66832,
+     "fullpath": "Head, pain, air, cold",
+     "source": "publicum",
+     "hybrid": 0.354442
+    },
+    {
+     "id": 103568,
+     "fullpath": "Head, pain, cold, becoming",
+     "source": "publicum",
+     "hybrid": 0.329442
+    },
+    {
+     "id": 39986,
+     "fullpath": "Head, pain",
+     "source": "publicum",
+     "hybrid": 0.272547
+    }
+   ]
+  }
+ ],
+ "vector": [
+  {
+   "query": "headache morning",
+   "results": [
+    {
+     "id": 30607,
+     "fullpath": "Eye, heaviness, lids, frontal headache",
+     "source": "publicum",
+     "score": 0.632529
+    },
+    {
+     "id": 46262,
+     "fullpath": "Mind, anxiety, salvation, about, morning",
+     "source": "publicum",
+     "score": 0.632529
+    },
+    {
+     "id": 31799,
+     "fullpath": "Eye, swollen, morning, headache, after",
+     "source": "publicum",
+     "score": 0.632529
+    },
+    {
+     "id": 30608,
+     "fullpath": "Eye, heaviness, lids, morning",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 69888,
+     "fullpath": "Abdomen, lead poisoning, agg.",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 30741,
+     "fullpath": "Eye, itching, lids, morning",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 31187,
+     "fullpath": "Eye, pain, lids, morning",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 30547,
+     "fullpath": "Eye, falling of lids, during headache",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 56830,
+     "fullpath": "Sleep, falling asleep, morning",
+     "source": "publicum",
+     "score": 0.577286
+    },
+    {
+     "id": 31683,
+     "fullpath": "Eye, redness, lids, morning",
+     "source": "publicum",
+     "score": 0.577286
+    }
+   ],
+   "wide": [
+    {
+     "id": 30607,
+     "score": 0.632529
+    },
+    {
+     "id": 46262,
+     "score": 0.632529
+    },
+    {
+     "id": 31799,
+     "score": 0.632529
+    },
+    {
+     "id": 30608,
+     "score": 0.577286
+    },
+    {
+     "id": 69888,
+     "score": 0.577286
+    },
+    {
+     "id": 30741,
+     "score": 0.577286
+    },
+    {
+     "id": 31187,
+     "score": 0.577286
+    },
+    {
+     "id": 30547,
+     "score": 0.577286
+    },
+    {
+     "id": 56830,
+     "score": 0.577286
+    },
+    {
+     "id": 31683,
+     "score": 0.577286
+    },
+    {
+     "id": 64182,
+     "score": 0.534473
+    },
+    {
+     "id": 31793,
+     "score": 0.534473
+    },
+    {
+     "id": 31784,
+     "score": 0.534473
+    },
+    {
+     "id": 13178,
+     "score": 0.534473
+    },
+    {
+     "id": 63938,
+     "score": 0.534473
+    },
+    {
+     "id": 68914,
+     "score": 0.499947
+    },
+    {
+     "id": 35239,
+     "score": 0.499947
+    },
+    {
+     "id": 69004,
+     "score": 0.499947
+    },
+    {
+     "id": 69003,
+     "score": 0.499947
+    },
+    {
+     "id": 31792,
+     "score": 0.499947
+    },
+    {
+     "id": 101922,
+     "score": 0.499947
+    },
+    {
+     "id": 69002,
+     "score": 0.499947
+    },
+    {
+     "id": 69001,
+     "score": 0.499947
+    },
+    {
+     "id": 30850,
+     "score": 0.499947
+    },
+    {
+     "id": 31559,
+     "score": 0.499947
+    },
+    {
+     "id": 68998,
+     "score": 0.499947
+    },
+    {
+     "id": 65266,
+     "score": 0.499947
+    },
+    {
+     "id": 102915,
+     "score": 0.499947
+    },
+    {
+     "id": 15307,
+     "score": 0.499947
+    },
+    {
+     "id": 69000,
+     "score": 0.499947
+    }
+   ]
+  },
+  {
+   "query": "dry cough evening",
+   "results": [
+    {
+     "id": 11573,
+     "fullpath": "Cough, dry, evening",
+     "source": "publicum",
+     "score": 0.99965
+    },
+    {
+     "id": 11691,
+     "fullpath": "Cough, evening",
+     "source": "publicum",
+     "score": 0.816409
+    },
+    {
+     "id": 103262,
+     "fullpath": "Cough, piano",
+     "source": "publicum",
+     "score": 0.816409
+    },
+    {
+     "id": 11531,
+     "fullpath": "Cough, dry",
+     "source": "publicum",
+     "score": 0.816409
+    },
+    {
+     "id": 11555,
+     "fullpath": "Cough, dry, coryza, during, evening",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 11581,
+     "fullpath": "Cough, dry, evening, midnight, until",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 11577,
+     "fullpath": "Cough, dry, evening, inhalation agg.",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 11584,
+     "fullpath": "Cough, dry, evening, smoking, from",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 11580,
+     "fullpath": "Cough, dry, evening, lying down, amel.",
+     "source": "publicum",
+     "score": 0.707029
+    },
+    {
+     "id": 11579,
+     "fullpath": "Cough, dry, evening, lying down agg.",
+     "source": "publicum",
+     "score": 0.707029
+    }
+   ],
+   "wide": [
+    {
+     "id": 11573,
+     "score": 0.99965
+    },
+    {
+     "id": 11691,
+     "score": 0.816409
+    },
+    {
+     "id": 103262,
+     "score": 0.816409
+    },
+    {
+     "id": 11531,
+     "score": 0.816409
+    },
+    {
+     "id": 11555,
+     "score": 0.774687
+    },
+    {
+     "id": 11581,
+     "score": 0.774687
+    },
+    {
+     "id": 11577,
+     "score": 0.774687
+    },
+    {
+     "id": 11584,
+     "score": 0.774687
+    },
+    {
+     "id": 11580,
+     "score": 0.707029
+    },
+    {
+     "id": 11579,
+     "score": 0.707029
+    },
+    {
+     "id": 11578,
+     "score": 0.707029
+    },
+    {
+     "id": 11576,
+     "score": 0.707029
+    },
+    {
+     "id": 11575,
+     "score": 0.707029
+    },
+    {
+     "id": 11616,
+     "score": 0.707029
+    },
+    {
+     "id": 11963,
+     "score": 0.707029
+    },
+    {
+     "id": 65230,
+     "score": 0.707029
+    },
+    {
+     "id": 11574,
+     "score": 0.707029
+    },
+    {
+     "id": 11592,
+     "score": 0.666434
+    },
+    {
+     "id": 11841,
+     "score": 0.666434
+    },
+    {
+     "id": 11802,
+     "score": 0.666434
+    },
+    {
+     "id": 65218,
+     "score": 0.666434
+    },
+    {
+     "id": 12500,
+     "score": 0.666434
+    },
+    {
+     "id": 11859,
+     "score": 0.666434
+    },
+    {
+     "id": 65220,
+     "score": 0.666434
+    },
+    {
+     "id": 11342,
+     "score": 0.666434
+    },
+    {
+     "id": 11871,
+     "score": 0.666434
+    },
+    {
+     "id": 12490,
+     "score": 0.666434
+    },
+    {
+     "id": 103255,
+     "score": 0.666434
+    },
+    {
+     "id": 12537,
+     "score": 0.666434
+    },
+    {
+     "id": 65221,
+     "score": 0.666434
+    }
+   ]
+  },
+  {
+   "query": "anxiety about health",
+   "results": [
+    {
+     "id": 46199,
+     "fullpath": "Mind, anxiety, health, about",
+     "source": "publicum",
+     "score": 0.866025
+    },
+    {
+     "id": 103724,
+     "fullpath": "Mind, anxiety, health",
+     "source": "publicum",
+     "score": 0.666434
+    },
+    {
+     "id": 46200,
+     "fullpath": "Mind, anxiety, health, about, especially during climacteric period",
+     "source": "publicum",
+     "score": 0.612307
+    },
+    {
+     "id": 46130,
+     "fullpath": "Mind, anxiety, business, about",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 46261,
+     "fullpath": "Mind, anxiety, salvation, about",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 68933,
+     "fullpath": "Mind, anxiety, disease about",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 68931,
+     "fullpath": "Mind, anxiety, death, about",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 46161,
+     "fullpath": "Mind, anxiety, drinking, after",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 101703,
+     "fullpath": "Mind, anxiety, travelling, about",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 46298,
+     "fullpath": "Mind, anxiety, trifles, about",
+     "source": "publicum",
+     "score": 0.57735
+    }
+   ],
+   "wide": [
+    {
+     "id": 46199,
+     "score": 0.866025
+    },
+    {
+     "id": 103724,
+     "score": 0.666434
+    },
+    {
+     "id": 46200,
+     "score": 0.612307
+    },
+    {
+     "id": 46130,
+     "score": 0.57735
+    },
+    {
+     "id": 46261,
+     "score": 0.57735
+    },
+    {
+     "id": 68933,
+     "score": 0.57735
+    },
+    {
+     "id": 68931,
+     "score": 0.57735
+    },
+    {
+     "id": 46161,
+     "score": 0.57735
+    },
+    {
+     "id": 101703,
+     "score": 0.57735
+    },
+    {
+     "id": 46298,
+     "score": 0.57735
+    },
+    {
+     "id": 46197,
+     "score": 0.57735
+    },
+    {
+     "id": 3220,
+     "score": 0.57735
+    },
+    {
+     "id": 53854,
+     "score": 0.516458
+    },
+    {
+     "id": 56195,
+     "score": 0.516458
+    },
+    {
+     "id": 101960,
+     "score": 0.516458
+    },
+    {
+     "id": 46262,
+     "score": 0.516458
+    },
+    {
+     "id": 40880,
+     "score": 0.516458
+    },
+    {
+     "id": 59142,
+     "score": 0.516458
+    },
+    {
+     "id": 56254,
+     "score": 0.516458
+    },
+    {
+     "id": 53845,
+     "score": 0.516458
+    },
+    {
+     "id": 56288,
+     "score": 0.516458
+    },
+    {
+     "id": 56265,
+     "score": 0.516458
+    },
+    {
+     "id": 101286,
+     "score": 0.516458
+    },
+    {
+     "id": 46132,
+     "score": 0.516458
+    },
+    {
+     "id": 17109,
+     "score": 0.471352
+    },
+    {
+     "id": 46294,
+     "score": 0.471352
+    },
+    {
+     "id": 46195,
+     "score": 0.471352
+    },
+    {
+     "id": 102491,
+     "score": 0.471352
+    },
+    {
+     "id": 101285,
+     "score": 0.436396
+    },
+    {
+     "id": 48323,
+     "score": 0.436396
+    }
+   ]
+  },
+  {
+   "query": "sleepless after midnight",
+   "results": [
+    {
+     "id": 69069,
+     "fullpath": "Bladder, midnight",
+     "source": "publicum",
+     "score": 0.816409
+    },
+    {
+     "id": 69086,
+     "fullpath": "Teeth, midnight",
+     "source": "publicum",
+     "score": 0.816409
+    },
+    {
+     "id": 60867,
+     "fullpath": "Teeth, pain, night, midnight, after",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 60462,
+     "fullpath": "Teeth, clinched firmly, midnight, after",
+     "source": "publicum",
+     "score": 0.774687
+    },
+    {
+     "id": 60991,
+     "fullpath": "Teeth, pain, stitching, night, after midnight",
+     "source": "publicum",
+     "score": 0.707029
+    },
+    {
+     "id": 60805,
+     "fullpath": "Teeth, pain, jerking, night, after midnight",
+     "source": "publicum",
+     "score": 0.707029
+    },
+    {
+     "id": 61050,
+     "fullpath": "Teeth, pain, tearing, night, midnight, after",
+     "source": "publicum",
+     "score": 0.707029
+    },
+    {
+     "id": 60992,
+     "fullpath": "Teeth, pain, stitching, night, after midnight, amel. after rising",
+     "source": "publicum",
+     "score": 0.696316
+    },
+    {
+     "id": 10996,
+     "fullpath": "Chill, midnight, after",
+     "source": "publicum",
+     "score": 0.666434
+    },
+    {
+     "id": 101136,
+     "fullpath": "Mind, midnight, after",
+     "source": "publicum",
+     "score": 0.666434
+    }
+   ],
+   "wide": [
+    {
+     "id": 69069,
+     "score": 0.816409
+    },
+    {
+     "id": 69086,
+     "score": 0.816409
+    },
+    {
+     "id": 60867,
+     "score": 0.774687
+    },
+    {
+     "id": 60462,
+     "score": 0.774687
+    },
+    {
+     "id": 60991,
+     "score": 0.707029
+    },
+    {
+     "id": 60805,
+     "score": 0.707029
+    },
+    {
+     "id": 61050,
+     "score": 0.707029
+    },
+    {
+     "id": 60992,
+     "score": 0.696316
+    },
+    {
+     "id": 10996,
+     "score": 0.666434
+    },
+    {
+     "id": 101136,
+     "score": 0.666434
+    },
+    {
+     "id": 100259,
+     "score": 0.666434
+    },
+    {
+     "id": 53098,
+     "score": 0.666434
+    },
+    {
+     "id": 69796,
+     "score": 0.666434
+    },
+    {
+     "id": 101168,
+     "score": 0.666434
+    },
+    {
+     "id": 60933,
+     "score": 0.666434
+    },
+    {
+     "id": 34228,
+     "score": 0.666434
+    },
+    {
+     "id": 54726,
+     "score": 0.654593
+    },
+    {
+     "id": 69080,
+     "score": 0.57735
+    },
+    {
+     "id": 60761,
+     "score": 0.57735
+    },
+    {
+     "id": 61008,
+     "score": 0.57735
+    },
+    {
+     "id": 61114,
+     "score": 0.57735
+    },
+    {
+     "id": 55249,
+     "score": 0.57735
+    },
+    {
+     "id": 11714,
+     "score": 0.57735
+    },
+    {
+     "id": 56401,
+     "score": 0.57735
+    },
+    {
+     "id": 6807,
+     "score": 0.57735
+    },
+    {
+     "id": 49327,
+     "score": 0.57735
+    },
+    {
+     "id": 61094,
+     "score": 0.57735
+    },
+    {
+     "id": 60837,
+     "score": 0.57735
+    },
+    {
+     "id": 60603,
+     "score": 0.57735
+    },
+    {
+     "id": 68495,
+     "score": 0.57735
+    }
+   ]
+  },
+  {
+   "query": "thirst small sips",
+   "results": [
+    {
+     "id": 63501,
+     "fullpath": "Vision, blurred, overheated",
+     "source": "publicum",
+     "score": 0.666434
+    },
+    {
+     "id": 104087,
+     "fullpath": "Stomach, thirst, small quantities",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 63474,
+     "fullpath": "Vision",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 63910,
+     "fullpath": "Vision, flickering",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 64192,
+     "fullpath": "Vision, small, objects seem",
+     "source": "publicum",
+     "score": 0.57735
+    },
+    {
+     "id": 63936,
+     "fullpath": "Vision, flickering, morning",
+     "source": "publicum",
+     "score": 0.516458
+    },
+    {
+     "id": 101063,
+     "fullpath": "Vision, acute, small objects, for",
+     "source": "publicum",
+     "score": 0.516458
+    },
+    {
+     "id": 63925,
+     "fullpath": "Vision, flickering, evening",
+     "source": "publicum",
+     "score": 0.516458
+    },
+    {
+     "id": 59743,
+     "fullpath": "Stomach, thirst, small quantities, for",
+     "source": "publicum",
+     "score": 0.516458
+    },
+    {
+     "id": 63917,
+     "fullpath": "Vision, flickering, circles",
+     "source": "publicum",
+     "score": 0.516458
+    }
+   ],
+   "wide": [
+    {
+     "id": 63501,
+     "score": 0.666434
+    },
+    {
+     "id": 104087,
+     "score": 0.57735
+    },
+    {
+     "id": 63474,
+     "score": 0.57735
+    },
+    {
+     "id": 63910,
+     "score": 0.57735
+    },
+    {
+     "id": 64192,
+     "score": 0.57735
+    },
+    {
+     "id": 63936,
+     "score": 0.516458
+    },
+    {
+     "id": 101063,
+     "score": 0.516458
+    },
+    {
+     "id": 63925,
+     "score": 0.516458
+    },
+    {
+     "id": 59743,
+     "score": 0.516458
+    },
+    {
+     "id": 63917,
+     "score": 0.516458
+    },
+    {
+     "id": 68721,
+     "score": 0.516458
+    },
+    {
+     "id": 63946,
+     "score": 0.516458
+    },
+    {
+     "id": 64273,
+     "score": 0.516458
+    },
+    {
+     "id": 63920,
+     "score": 0.516458
+    },
+    {
+     "id": 63944,
+     "score": 0.516458
+    },
+    {
+     "id": 63950,
+     "score": 0.516458
+    },
+    {
+     "id": 63730,
+     "score": 0.516458
+    },
+    {
+     "id": 63931,
+     "score": 0.516458
+    },
+    {
+     "id": 68720,
+     "score": 0.516458
+    },
+    {
+     "id": 63915,
+     "score": 0.516458
+    },
+    {
+     "id": 63916,
+     "score": 0.516458
+    },
+    {
+     "id": 63953,
+     "score": 0.471352
+    },
+    {
+     "id": 63947,
+     "score": 0.471352
+    },
+    {
+     "id": 63945,
+     "score": 0.471352
+    },
+    {
+     "id": 63933,
+     "score": 0.471352
+    },
+    {
+     "id": 63941,
+     "score": 0.471352
+    },
+    {
+     "id": 63943,
+     "score": 0.471352
+    },
+    {
+     "id": 63934,
+     "score": 0.471352
+    },
+    {
+     "id": 63930,
+     "score": 0.471352
+    },
+    {
+     "id": 63940,
+     "score": 0.471352
+    }
+   ]
+  },
+  {
+   "query": "head pain worse cold",
+   "results": [
+    {
+     "id": 66868,
+     "fullpath": "Head, pain, cold",
+     "source": "publicum",
+     "score": 0.865723
+    },
+    {
+     "id": 102242,
+     "fullpath": "Head, pain, wind, cold",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 66832,
+     "fullpath": "Head, pain, air, cold",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 40047,
+     "fullpath": "Head, pain, bathing, cold",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 103568,
+     "fullpath": "Head, pain, cold, becoming",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 65764,
+     "fullpath": "Extremities, pain, leg, cold",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 44215,
+     "fullpath": "Head, pain, weather, cold",
+     "source": "publicum",
+     "score": 0.75
+    },
+    {
+     "id": 39144,
+     "fullpath": "Head, eruption",
+     "source": "publicum",
+     "score": 0.707031
+    },
+    {
+     "id": 39986,
+     "fullpath": "Head, pain",
+     "source": "publicum",
+     "score": 0.707031
+    },
+    {
+     "id": 40503,
+     "fullpath": "Head, pain, cold, becoming, from, head getting cold, on",
+     "source": "publicum",
+     "score": 0.693359
+    }
+   ],
+   "wide": [
+    {
+     "id": 66868,
+     "score": 0.865723
+    },
+    {
+     "id": 102242,
+     "score": 0.75
+    },
+    {
+     "id": 66832,
+     "score": 0.75
+    },
+    {
+     "id": 40047,
+     "score": 0.75
+    },
+    {
+     "id": 103568,
+     "score": 0.75
+    },
+    {
+     "id": 65764,
+     "score": 0.75
+    },
+    {
+     "id": 44215,
+     "score": 0.75
+    },
+    {
+     "id": 39144,
+     "score": 0.707031
+    },
+    {
+     "id": 39986,
+     "score": 0.707031
+    },
+    {
+     "id": 40503,
+     "score": 0.693359
+    },
+    {
+     "id": 43933,
+     "score": 0.670898
+    },
+    {
+     "id": 42595,
+     "score": 0.670898
+    },
+    {
+     "id": 40009,
+     "score": 0.670898
+    },
+    {
+     "id": 61718,
+     "score": 0.670898
+    },
+    {
+     "id": 40504,
+     "score": 0.670898
+    },
+    {
+     "id": 67139,
+     "score": 0.670898
+    },
+    {
+     "id": 44217,
+     "score": 0.670898
+    },
+    {
+     "id": 41312,
+     "score": 0.670898
+    },
+    {
+     "id": 40261,
+     "score": 0.670898
+    },
+    {
+     "id": 67132,
+     "score": 0.670898
+    },
+    {
+     "id": 40500,
+     "score": 0.670898
+    },
+    {
+     "id": 40501,
+     "score": 0.670898
+    },
+    {
+     "id": 66893,
+     "score": 0.670898
+    },
+    {
+     "id": 22896,
+     "score": 0.670898
+    },
+    {
+     "id": 103592,
+     "score": 0.670898
+    },
+    {
+     "id": 44216,
+     "score": 0.670898
+    },
+    {
+     "id": 40082,
+     "score": 0.612305
+    },
+    {
+     "id": 42731,
+     "score": 0.612305
+    },
+    {
+     "id": 41444,
+     "score": 0.612305
+    },
+    {
+     "id": 40877,
+     "score": 0.612305
+    }
+   ]
+  }
+ ],
+ "lexical": [
+  {
+   "query": "headache morning",
+   "results": [
+    {
+     "id": 15493,
+     "fullpath": "Extremities, coldness, foot, morning, breakfast, after, during headache",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 40068,
+     "fullpath": "Head, pain, blindness, followed by violent headache, sight returns as headache is agg.",
+     "source": "publicum",
+     "match": 3.5
+    },
+    {
+     "id": 41223,
+     "fullpath": "Head, pain, forehead, morning, every other morning lasting all day",
+     "source": "publicum",
+     "match": 3.5
+    },
+    {
+     "id": 31799,
+     "fullpath": "Eye, swollen, morning, headache, after",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 63938,
+     "fullpath": "Vision, flickering, morning, headache, with",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 953,
+     "fullpath": "Abdomen, pain, cramping, griping, morning, waking, on",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 62470,
+     "fullpath": "Urethra, pain, drawing, morning, urinating, after",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 62471,
+     "fullpath": "Urethra, pain, drawing, morning, waking, on",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 64798,
+     "fullpath": "Back, pain, tearing, dorsal region, scapulae, between, morning",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 11008,
+     "fullpath": "Chill, morning, heavy chill morning of one day, light in afternoon of next",
+     "source": "publicum",
+     "match": 3.0
+    }
+   ]
+  },
+  {
+   "query": "dry cough evening",
+   "results": [
+    {
+     "id": 11550,
+     "fullpath": "Cough, dry, chronic dry cough in pining boys",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 11539,
+     "fullpath": "Cough, dry, air, dry cold air",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11555,
+     "fullpath": "Cough, dry, coryza, during, evening",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11573,
+     "fullpath": "Cough, dry, evening",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11574,
+     "fullpath": "Cough, dry, evening, 6 p.m.",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11575,
+     "fullpath": "Cough, dry, evening, 7 p.m.",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11576,
+     "fullpath": "Cough, dry, evening, entering warm room",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11577,
+     "fullpath": "Cough, dry, evening, inhalation agg.",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11578,
+     "fullpath": "Cough, dry, evening, loose in morning",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 11579,
+     "fullpath": "Cough, dry, evening, lying down agg.",
+     "source": "publicum",
+     "match": 4.5
+    }
+   ]
+  },
+  {
+   "query": "anxiety about health",
+   "results": [
+    {
+     "id": 46199,
+     "fullpath": "Mind, anxiety, health, about",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 46200,
+     "fullpath": "Mind, anxiety, health, about, especially during climacteric period",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 7557,
+     "fullpath": "Heart & Circulation, anxiety, heart, region of, moving about agg.",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 7558,
+     "fullpath": "Heart & Circulation, anxiety, heart, region of, moving about, amel.",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46130,
+     "fullpath": "Mind, anxiety, business, about",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46132,
+     "fullpath": "Mind, anxiety, children, about his",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46177,
+     "fullpath": "Mind, anxiety, evening, bed, uneasiness and anxiety, must uncover",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46195,
+     "fullpath": "Mind, anxiety, friends at home, about",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46197,
+     "fullpath": "Mind, anxiety, future, about",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 46254,
+     "fullpath": "Mind, anxiety, railroad, when about to journey by, amel., while in train",
+     "source": "publicum",
+     "match": 3.0
+    }
+   ]
+  },
+  {
+   "query": "sleepless after midnight",
+   "results": [
+    {
+     "id": 13652,
+     "fullpath": "Ear, pain, aching, night, midnight, after, after walking in the wind",
+     "source": "publicum",
+     "match": 5.0
+    },
+    {
+     "id": 46235,
+     "fullpath": "Mind, anxiety, night, midnight, after, 3 a.m., after",
+     "source": "publicum",
+     "match": 5.0
+    },
+    {
+     "id": 60992,
+     "fullpath": "Teeth, pain, stitching, night, after midnight, amel. after rising",
+     "source": "publicum",
+     "match": 5.0
+    },
+    {
+     "id": 57149,
+     "fullpath": "Sleep, sleeplessness, night, midnight, after",
+     "source": "publicum",
+     "match": 4.5
+    },
+    {
+     "id": 12197,
+     "fullpath": "Cough, paroxysmal, night, midnight, before, 11 p.m. sleep, after",
+     "source": "publicum",
+     "match": 4.0
+    },
+    {
+     "id": 56937,
+     "fullpath": "Sleep, restless, night, midnight, after",
+     "source": "publicum",
+     "match": 4.0
+    },
+    {
+     "id": 56938,
+     "fullpath": "Sleep, restless, night, midnight, after, until 3 a.m.",
+     "source": "publicum",
+     "match": 4.0
+    },
+    {
+     "id": 29391,
+     "fullpath": "Extremities, twitching, foot, midnight, after, during sleep",
+     "source": "publicum",
+     "match": 3.5
+    },
+    {
+     "id": 29426,
+     "fullpath": "Extremities, twitching, hand, midnight, after, during sleep",
+     "source": "publicum",
+     "match": 3.5
+    },
+    {
+     "id": 53103,
+     "fullpath": "Perspiration, midnight, after, 3 a.m., during sleep",
+     "source": "publicum",
+     "match": 3.5
+    }
+   ]
+  },
+  {
+   "query": "thirst small sips",
+   "results": [
+    {
+     "id": 34343,
+     "fullpath": "Fever, succession of stages, chill followed, thirst, then heat without thirst",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 59743,
+     "fullpath": "Stomach, thirst, small quantities, for",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 59744,
+     "fullpath": "Stomach, thirst, small quantities, for, often",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 104087,
+     "fullpath": "Stomach, thirst, small quantities",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 101814,
+     "fullpath": "Mind, delusions, small, people appear small",
+     "source": "publicum",
+     "match": 3.0
+    },
+    {
+     "id": 47436,
+     "fullpath": "Mind, delusions, small, sensation of being smaller",
+     "source": "publicum",
+     "match": 2.0
+    },
+    {
+     "id": 47437,
+     "fullpath": "Mind, delusions, small, sensation of being smaller, before epileptic fit",
+     "source": "publicum",
+     "match": 2.0
+    },
+    {
+     "id": 47439,
+     "fullpath": "Mind, delusions, small, things grow smaller",
+     "source": "publicum",
+     "match": 2.0
+    },
+    {
+     "id": 101300,
+     "fullpath": "Mind, delusions, small, body is smaller",
+     "source": "publicum",
+     "match": 2.0
+    },
+    {
+     "id": 7268,
+     "fullpath": "Bladder, urging to urinate (morbid desire), thirst, with",
+     "source": "publicum",
+     "match": 1.5
+    }
+   ]
+  },
+  {
+   "query": "head pain worse cold",
+   "results": [
+    {
+     "id": 40440,
+     "fullpath": "Head, pain, bursting, occiput, extending over head, beginning in upper cervical region, causing bursting pain in forehead and eyeballs agg. 10 a.m. while lying, nausea, cold sweat and cold feet",
+     "source": "publicum",
+     "match": 9.5
+    },
+    {
+     "id": 40503,
+     "fullpath": "Head, pain, cold, becoming, from, head getting cold, on",
+     "source": "publicum",
+     "match": 7.5
+    },
+    {
+     "id": 42069,
+     "fullpath": "Head, pain, pressing, forehead, eyes, over, pressive pain above left eye, followed by a dull, pressive pain in occipital protuberances, thence spreading over whole body",
+     "source": "publicum",
+     "match": 6.5
+    },
+    {
+     "id": 102566,
+     "fullpath": "Head, coldness, cold air, came from head, as if cold air",
+     "source": "publicum",
+     "match": 6.5
+    },
+    {
+     "id": 38760,
+     "fullpath": "Head, cold air, head sensitive to, walking in cold air",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 39891,
+     "fullpath": "Head, motions of head (shaking, nodding, waving, etc.), rocks head from side to side to relieve pain",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 40055,
+     "fullpath": "Head, pain, bending head backward, walks with head bent backwards",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 40223,
+     "fullpath": "Head, pain, boring, twisting, screwing pain from right side of head to both temples",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 40441,
+     "fullpath": "Head, pain, bursting, occiput, extending to top of head, is so severe she thinks head will burst and she will go crazy",
+     "source": "publicum",
+     "match": 6.0
+    },
+    {
+     "id": 40508,
+     "fullpath": "Head, pain, come off, pain as if top of head would",
+     "source": "publicum",
+     "match": 6.0
+    }
+   ]
+  }
+ ],
+ "repertorize": [
+  {
+   "symptoms": [
+    "headache morning",
+    "nausea",
+    "irritability"
+   ],
+   "elapsed_ms": 584,
+   "results": [
+    {
+     "abbrev": "Calc.",
+     "name": "Calcarea Carbonica",
+     "score": 37,
+     "match_count": 16,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41223,
+       "rubric": "Head, pain, forehead, morning, every other morning lasting all day",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Calcarea Carbonica",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental fear",
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 3,
+      "total_segments": 6,
+      "coverage": 0.062,
+      "segment_coverage": 0.5,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Calcarea Carbonica manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41223,
+       2
+      ],
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       2
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       2
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "irritability",
+       67579,
+       1
+      ],
+      [
+       "nausea",
+       55353,
+       3
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       64189,
+       2
+      ],
+      [
+       "nausea",
+       68763,
+       3
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       103891,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Lach.",
+     "name": "Lachesis Muta",
+     "score": 33,
+     "match_count": 15,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40239,
+       "rubric": "Head, pain, brain, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Lachesis Muta",
+      "segment_matches": [
+       "Cephalic disturbance"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Lachesis Muta manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40239,
+       1
+      ],
+      [
+       "headache morning",
+       40429,
+       1
+      ],
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       3
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48642,
+       2
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "nausea",
+       12534,
+       3
+      ],
+      [
+       "nausea",
+       55353,
+       2
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nux-v.",
+     "name": "Nux Vomica",
+     "score": 32,
+     "match_count": 16,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40155,
+       "rubric": "Head, pain, boring, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nux Vomica",
+      "segment_matches": [
+       "Mental fear",
+       "Cephalic disturbance"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Nux Vomica manifests a dynamic cycle through mind and abdomen, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40155,
+       1
+      ],
+      [
+       "headache morning",
+       40307,
+       2
+      ],
+      [
+       "headache morning",
+       40429,
+       1
+      ],
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       3
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "irritability",
+       67579,
+       1
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       3
+      ],
+      [
+       "nausea",
+       68785,
+       2
+      ],
+      [
+       "nausea",
+       103891,
+       1
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nat-m.",
+     "name": "Natrium Muriaticum",
+     "score": 30,
+     "match_count": 15,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Natrium Muriaticum",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental sadness",
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 3,
+      "total_segments": 6,
+      "coverage": 0.062,
+      "segment_coverage": 0.5,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Natrium Muriaticum manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       3
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48597,
+       1
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48633,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       2
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "nausea",
+       55353,
+       2
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       64189,
+       1
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       2
+      ],
+      [
+       "nausea",
+       104148,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sulph.",
+     "name": "Sulphur",
+     "score": 30,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Sulphur",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental fear"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Sulphur manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       3
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       2
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "nausea",
+       55353,
+       3
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       3
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sep.",
+     "name": "Sepia Officinalis",
+     "score": 29,
+     "match_count": 14,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40429,
+       "rubric": "Head, pain, bursting, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Sepia Officinalis",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental sadness"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Sepia Officinalis manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40429,
+       1
+      ],
+      [
+       "headache morning",
+       41382,
+       2
+      ],
+      [
+       "headache morning",
+       41860,
+       3
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "nausea",
+       55353,
+       3
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nit-ac.",
+     "name": "Nitricum Acidum",
+     "score": 28,
+     "match_count": 14,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nitricum Acidum",
+      "segment_matches": [
+       "Mental sadness",
+       "Cephalic disturbance",
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 3,
+      "total_segments": 6,
+      "coverage": 0.062,
+      "segment_coverage": 0.5,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Nitricum Acidum manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       41860,
+       3
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48597,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "nausea",
+       55353,
+       3
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       67821,
+       1
+      ],
+      [
+       "nausea",
+       68763,
+       1
+      ],
+      [
+       "nausea",
+       68785,
+       2
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Phos.",
+     "name": "Phosphorus",
+     "score": 28,
+     "match_count": 18,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40307,
+       "rubric": "Head, pain, burning, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Phosphorus",
+      "segment_matches": [
+       "Mental fear",
+       "Cephalic disturbance"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Phosphorus manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40307,
+       1
+      ],
+      [
+       "headache morning",
+       40429,
+       1
+      ],
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48633,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       48647,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "irritability",
+       67582,
+       1
+      ],
+      [
+       "nausea",
+       55353,
+       1
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       1
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Rhus-t.",
+     "name": "Rhus Toxicodendron",
+     "score": 28,
+     "match_count": 14,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Rhus Toxicodendron",
+      "segment_matches": [
+       "Mental fear"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [
+       "irritability"
+      ],
+      "cycle_sentence": "Driven by limb expression, Rhus Toxicodendron manifests a dynamic cycle through general state and back, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       48647,
+       3
+      ],
+      [
+       "irritability",
+       66441,
+       1
+      ],
+      [
+       "irritability",
+       67579,
+       2
+      ],
+      [
+       "nausea",
+       55353,
+       2
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Lyc.",
+     "name": "Lycopodium Clavatum",
+     "score": 27,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Lycopodium Clavatum",
+      "segment_matches": [
+       "Mental fear"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [
+       "irritability"
+      ],
+      "cycle_sentence": "Driven by limb expression, Lycopodium Clavatum manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       3
+      ],
+      [
+       "irritability",
+       48647,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "nausea",
+       55353,
+       2
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sil.",
+     "name": "Silicea Terra",
+     "score": 27,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Silicea Terra",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental confusion"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Silicea Terra manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       3
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48633,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "nausea",
+       55353,
+       2
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       67821,
+       1
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Puls.",
+     "name": "Pulsatilla Pratensis",
+     "score": 26,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 103891,
+       "rubric": "Mind, nausea",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Pulsatilla Pratensis",
+      "segment_matches": [
+       "Mental sadness",
+       "Cephalic disturbance"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Pulsatilla Pratensis manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66963,
+       1
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       2
+      ],
+      [
+       "irritability",
+       66441,
+       2
+      ],
+      [
+       "irritability",
+       67579,
+       1
+      ],
+      [
+       "nausea",
+       55353,
+       3
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       103891,
+       1
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Con.",
+     "name": "Conium Maculatum",
+     "score": 25,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40429,
+       "rubric": "Head, pain, bursting, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Conium Maculatum",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 5,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by a progressive hardening and rigidity, Conium Maculatum is engaged in a slow descent from sexual vitality into physical and mental paralysis, moving through desire, suppression, indifference, and complete shutdown.",
+      "map_of_hierarchy_phase": 4,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40429,
+       2
+      ],
+      [
+       "headache morning",
+       66928,
+       1
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48597,
+       2
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "irritability",
+       67579,
+       2
+      ],
+      [
+       "irritability",
+       67581,
+       1
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       1
+      ],
+      [
+       "nausea",
+       68785,
+       2
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Bry.",
+     "name": "Bryonia Alba",
+     "score": 24,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66928,
+       "rubric": "Head, pain, forehead, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41382,
+       "rubric": "Head, pain, hysterical headache",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 40429,
+       "rubric": "Head, pain, bursting, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Bryonia Alba",
+      "segment_matches": [
+       "Cephalic disturbance",
+       "Mental confusion"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [
+       "irritability",
+       "headache"
+      ],
+      "cycle_sentence": "Driven by limb expression, Bryonia Alba manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       40429,
+       2
+      ],
+      [
+       "headache morning",
+       41382,
+       1
+      ],
+      [
+       "headache morning",
+       66928,
+       2
+      ],
+      [
+       "headache morning",
+       66963,
+       3
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       1
+      ],
+      [
+       "nausea",
+       55353,
+       1
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Carb-v.",
+     "name": "Carbo Vegetabilis",
+     "score": 24,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 66963,
+       "rubric": "Head, pain, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "headache morning",
+       "rubric_id": 41860,
+       "rubric": "Head, pain, periodic headache",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "headache morning head pain mornings"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 58605,
+       "rubric": "Stomach, nausea",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 104148,
+       "rubric": "Vertigo, nausea",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      },
+      {
+       "query_symptom": "nausea",
+       "rubric_id": 68763,
+       "rubric": "Abdomen, umbilicus",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "nausea"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Carbo Vegetabilis",
+      "segment_matches": [
+       "Constitutional vulnerability",
+       "Mental confusion",
+       "Gastric center"
+      ],
+      "segments_matched_count": 3,
+      "total_segments": 6,
+      "coverage": 0.083,
+      "segment_coverage": 0.5,
+      "generalized_hits": [
+       "irritability"
+      ],
+      "cycle_sentence": "Driven by limb expression, Carbo Vegetabilis manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "headache morning",
+       41860,
+       2
+      ],
+      [
+       "headache morning",
+       66963,
+       2
+      ],
+      [
+       "irritability",
+       48595,
+       3
+      ],
+      [
+       "irritability",
+       48621,
+       1
+      ],
+      [
+       "irritability",
+       48633,
+       1
+      ],
+      [
+       "irritability",
+       48642,
+       1
+      ],
+      [
+       "irritability",
+       66441,
+       3
+      ],
+      [
+       "nausea",
+       55353,
+       1
+      ],
+      [
+       "nausea",
+       58605,
+       3
+      ],
+      [
+       "nausea",
+       68763,
+       2
+      ],
+      [
+       "nausea",
+       68785,
+       3
+      ],
+      [
+       "nausea",
+       104148,
+       2
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "symptoms": [
+    "dry cough evening",
+    "hoarseness",
+    "thirst small sips"
+   ],
+   "elapsed_ms": 166,
+   "results": [
+    {
+     "abbrev": "Lyc.",
+     "name": "Lycopodium Clavatum",
+     "score": 26,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11550,
+       "rubric": "Cough, dry, chronic dry cough in pining boys",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11637,
+       "rubric": "Cough, dry, night, midnight, before",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Lycopodium Clavatum",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Lycopodium Clavatum manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11550,
+       3
+      ],
+      [
+       "dry cough evening",
+       11573,
+       3
+      ],
+      [
+       "dry cough evening",
+       11623,
+       2
+      ],
+      [
+       "dry cough evening",
+       11630,
+       2
+      ],
+      [
+       "dry cough evening",
+       11637,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "hoarseness",
+       45885,
+       1
+      ],
+      [
+       "thirst small sips",
+       59743,
+       3
+      ],
+      [
+       "thirst small sips",
+       59744,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       2
+      ],
+      [
+       "thirst small sips",
+       64192,
+       2
+      ],
+      [
+       "thirst small sips",
+       104087,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Ars.",
+     "name": "Arsenicum Album",
+     "score": 25,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Arsenicum Album",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Arsenicum Album manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       2
+      ],
+      [
+       "dry cough evening",
+       11631,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "hoarseness",
+       45872,
+       2
+      ],
+      [
+       "thirst small sips",
+       59743,
+       3
+      ],
+      [
+       "thirst small sips",
+       59744,
+       3
+      ],
+      [
+       "thirst small sips",
+       60369,
+       3
+      ],
+      [
+       "thirst small sips",
+       104087,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sulph.",
+     "name": "Sulphur",
+     "score": 22,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45853,
+       "rubric": "Larynx and trachea, voice, hoarseness, afternoon",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45875,
+       "rubric": "Larynx and trachea, voice, hoarseness, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Sulphur",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Sulphur manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       3
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45853,
+       1
+      ],
+      [
+       "hoarseness",
+       45875,
+       2
+      ],
+      [
+       "hoarseness",
+       45885,
+       3
+      ],
+      [
+       "thirst small sips",
+       59743,
+       2
+      ],
+      [
+       "thirst small sips",
+       59744,
+       2
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       104087,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Phos.",
+     "name": "Phosphorus",
+     "score": 21,
+     "match_count": 11,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11581,
+       "rubric": "Cough, dry, evening, midnight, until",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11637,
+       "rubric": "Cough, dry, night, midnight, before",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Phosphorus",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Phosphorus manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11581,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       1
+      ],
+      [
+       "dry cough evening",
+       11637,
+       1
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45875,
+       3
+      ],
+      [
+       "hoarseness",
+       45885,
+       3
+      ],
+      [
+       "thirst small sips",
+       59743,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       104087,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Calc.",
+     "name": "Calcarea Carbonica",
+     "score": 20,
+     "match_count": 7,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11637,
+       "rubric": "Cough, dry, night, midnight, before",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Calcarea Carbonica",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Calcarea Carbonica manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       3
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       3
+      ],
+      [
+       "dry cough evening",
+       11631,
+       2
+      ],
+      [
+       "dry cough evening",
+       11637,
+       3
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45885,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nux-v.",
+     "name": "Nux Vomica",
+     "score": 20,
+     "match_count": 9,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nux Vomica",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Nux Vomica manifests a dynamic cycle through mind and abdomen, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       3
+      ],
+      [
+       "dry cough evening",
+       11631,
+       3
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "hoarseness",
+       45875,
+       1
+      ],
+      [
+       "hoarseness",
+       45885,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       3
+      ],
+      [
+       "thirst small sips",
+       63501,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Bell.",
+     "name": "Belladonna",
+     "score": 19,
+     "match_count": 9,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Belladonna",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by mind, Belladonna manifests a dynamic cycle through head and limb symptoms, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       1
+      ],
+      [
+       "dry cough evening",
+       11631,
+       1
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "thirst small sips",
+       59743,
+       2
+      ],
+      [
+       "thirst small sips",
+       59744,
+       2
+      ],
+      [
+       "thirst small sips",
+       60369,
+       3
+      ],
+      [
+       "thirst small sips",
+       104087,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Rhus-t.",
+     "name": "Rhus Toxicodendron",
+     "score": 19,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11581,
+       "rubric": "Cough, dry, evening, midnight, until",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11637,
+       "rubric": "Cough, dry, night, midnight, before",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Rhus Toxicodendron",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Rhus Toxicodendron manifests a dynamic cycle through general state and back, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11581,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       2
+      ],
+      [
+       "dry cough evening",
+       11630,
+       2
+      ],
+      [
+       "dry cough evening",
+       11637,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "thirst small sips",
+       59743,
+       2
+      ],
+      [
+       "thirst small sips",
+       59744,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       104087,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Hyos.",
+     "name": "Hyoscyamus Niger",
+     "score": 15,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Hyoscyamus Niger",
+      "segment_matches": [
+       "Cough pattern"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.167,
+      "segment_coverage": 0.167,
+      "generalized_hits": [
+       "cough"
+      ],
+      "cycle_sentence": "Driven by mind, Hyoscyamus Niger manifests a dynamic cycle through limb disturbance and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "dry cough evening",
+       11630,
+       1
+      ],
+      [
+       "dry cough evening",
+       11631,
+       1
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "thirst small sips",
+       59743,
+       1
+      ],
+      [
+       "thirst small sips",
+       59744,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       64192,
+       2
+      ],
+      [
+       "thirst small sips",
+       104087,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Kali-c.",
+     "name": "Kalium Carbonicum",
+     "score": 13,
+     "match_count": 7,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11631,
+       "rubric": "Cough, dry, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Kalium Carbonicum",
+      "segment_matches": [
+       "Spinal and dorsal strain"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Kalium Carbonicum manifests a dynamic cycle through head and back, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       3
+      ],
+      [
+       "dry cough evening",
+       11623,
+       2
+      ],
+      [
+       "dry cough evening",
+       11630,
+       2
+      ],
+      [
+       "dry cough evening",
+       11631,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       103394,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Puls.",
+     "name": "Pulsatilla Pratensis",
+     "score": 13,
+     "match_count": 8,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "thirst small sips",
+       "rubric_id": 59744,
+       "rubric": "Stomach, thirst, small quantities, for, often",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "thirst small sips small quantities often"
+      },
+      {
+       "query_symptom": "thirst small sips",
+       "rubric_id": 104087,
+       "rubric": "Stomach, thirst, small quantities",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "thirst small sips small quantities often"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Pulsatilla Pratensis",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Pulsatilla Pratensis manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       3
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "thirst small sips",
+       55700,
+       1
+      ],
+      [
+       "thirst small sips",
+       59743,
+       1
+      ],
+      [
+       "thirst small sips",
+       59744,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       104087,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Carb-v.",
+     "name": "Carbo Vegetabilis",
+     "score": 13,
+     "match_count": 7,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45875,
+       "rubric": "Larynx and trachea, voice, hoarseness, evening",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45885,
+       "rubric": "Larynx and trachea, voice, hoarseness, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Carbo Vegetabilis",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Carbo Vegetabilis manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       2
+      ],
+      [
+       "dry cough evening",
+       11623,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45875,
+       3
+      ],
+      [
+       "hoarseness",
+       45885,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       64192,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Acon.",
+     "name": "Aconitum Napellus",
+     "score": 13,
+     "match_count": 9,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45872,
+       "rubric": "Larynx and trachea, voice, hoarseness, daytime",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45885,
+       "rubric": "Larynx and trachea, voice, hoarseness, morning",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Aconitum Napellus",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by mind, Aconitum Napellus manifests a dynamic cycle through limb disturbance and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       1
+      ],
+      [
+       "dry cough evening",
+       11623,
+       1
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45872,
+       2
+      ],
+      [
+       "hoarseness",
+       45885,
+       2
+      ],
+      [
+       "thirst small sips",
+       59743,
+       1
+      ],
+      [
+       "thirst small sips",
+       59744,
+       1
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       104087,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Lach.",
+     "name": "Lachesis Muta",
+     "score": 13,
+     "match_count": 7,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45875,
+       "rubric": "Larynx and trachea, voice, hoarseness, evening",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "hoarseness"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45885,
+       "rubric": "Larynx and trachea, voice, hoarseness, morning",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Lachesis Muta",
+      "segment_matches": [
+       "Cutaneous manifestation"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Lachesis Muta manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       1
+      ],
+      [
+       "dry cough evening",
+       11623,
+       3
+      ],
+      [
+       "hoarseness",
+       45852,
+       3
+      ],
+      [
+       "hoarseness",
+       45875,
+       1
+      ],
+      [
+       "hoarseness",
+       45885,
+       1
+      ],
+      [
+       "thirst small sips",
+       59743,
+       2
+      ],
+      [
+       "thirst small sips",
+       104087,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nit-ac.",
+     "name": "Nitricum Acidum",
+     "score": 13,
+     "match_count": 8,
+     "matches": [
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11573,
+       "rubric": "Cough, dry, evening",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11623,
+       "rubric": "Cough, dry, night",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11630,
+       "rubric": "Cough, dry, night, midnight",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "dry cough evening",
+       "rubric_id": 11637,
+       "rubric": "Cough, dry, night, midnight, before",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "dry cough evening night"
+      },
+      {
+       "query_symptom": "hoarseness",
+       "rubric_id": 45852,
+       "rubric": "Larynx and trachea, voice, hoarseness",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "hoarseness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nitricum Acidum",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Nitricum Acidum manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "dry cough evening",
+       11573,
+       1
+      ],
+      [
+       "dry cough evening",
+       11623,
+       2
+      ],
+      [
+       "dry cough evening",
+       11630,
+       2
+      ],
+      [
+       "dry cough evening",
+       11637,
+       2
+      ],
+      [
+       "hoarseness",
+       45852,
+       2
+      ],
+      [
+       "hoarseness",
+       45885,
+       2
+      ],
+      [
+       "thirst small sips",
+       60369,
+       1
+      ],
+      [
+       "thirst small sips",
+       64192,
+       1
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "symptoms": [
+    "anxiety about health",
+    "sleepless after midnight",
+    "fear of death"
+   ],
+   "elapsed_ms": 195,
+   "results": [
+    {
+     "abbrev": "Ars.",
+     "name": "Arsenicum Album",
+     "score": 40,
+     "match_count": 17,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46261,
+       "rubric": "Mind, anxiety, salvation, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46298,
+       "rubric": "Mind, anxiety, trifles, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Arsenicum Album",
+      "segment_matches": [
+       "Mental fear",
+       "Gastric center"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Arsenicum Album manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       3
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       46261,
+       3
+      ],
+      [
+       "anxiety about health",
+       46298,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       3
+      ],
+      [
+       "fear of death",
+       47964,
+       3
+      ],
+      [
+       "fear of death",
+       47980,
+       2
+      ],
+      [
+       "fear of death",
+       47982,
+       2
+      ],
+      [
+       "fear of death",
+       103834,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Phos.",
+     "name": "Phosphorus",
+     "score": 33,
+     "match_count": 15,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Phosphorus",
+      "segment_matches": [
+       "Mental fear",
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.042,
+      "segment_coverage": 0.333,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Phosphorus manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46197,
+       3
+      ],
+      [
+       "anxiety about health",
+       46199,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       2
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       3
+      ],
+      [
+       "fear of death",
+       47964,
+       2
+      ],
+      [
+       "fear of death",
+       47967,
+       2
+      ],
+      [
+       "fear of death",
+       47974,
+       2
+      ],
+      [
+       "fear of death",
+       103834,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Calc.",
+     "name": "Calcarea Carbonica",
+     "score": 32,
+     "match_count": 16,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46130,
+       "rubric": "Mind, anxiety, business, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Calcarea Carbonica",
+      "segment_matches": [
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Calcarea Carbonica manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46130,
+       1
+      ],
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46197,
+       3
+      ],
+      [
+       "anxiety about health",
+       46199,
+       2
+      ],
+      [
+       "anxiety about health",
+       46261,
+       2
+      ],
+      [
+       "anxiety about health",
+       46298,
+       1
+      ],
+      [
+       "anxiety about health",
+       103724,
+       2
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       3
+      ],
+      [
+       "fear of death",
+       47967,
+       2
+      ],
+      [
+       "fear of death",
+       47969,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Kali-c.",
+     "name": "Kalium Carbonicum",
+     "score": 25,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Kalium Carbonicum",
+      "segment_matches": [
+       "Mental fear",
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 2,
+      "total_segments": 6,
+      "coverage": 0.062,
+      "segment_coverage": 0.333,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Kalium Carbonicum manifests a dynamic cycle through head and back, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": true
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46197,
+       1
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "fear of death",
+       47964,
+       1
+      ],
+      [
+       "fear of death",
+       103834,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sulph.",
+     "name": "Sulphur",
+     "score": 25,
+     "match_count": 15,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46130,
+       "rubric": "Mind, anxiety, business, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Sulphur",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Sulphur manifests a dynamic cycle through head and mind, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46130,
+       1
+      ],
+      [
+       "anxiety about health",
+       46185,
+       1
+      ],
+      [
+       "anxiety about health",
+       46197,
+       1
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       46261,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       1
+      ],
+      [
+       "fear of death",
+       47963,
+       1
+      ],
+      [
+       "fear of death",
+       67543,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       56937,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57221,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sep.",
+     "name": "Sepia Officinalis",
+     "score": 24,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57149,
+       "rubric": "Sleep, sleeplessness, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Sepia Officinalis",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Sepia Officinalis manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       2
+      ],
+      [
+       "anxiety about health",
+       103835,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       56937,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57221,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nux-v.",
+     "name": "Nux Vomica",
+     "score": 24,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46130,
+       "rubric": "Mind, anxiety, business, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nux Vomica",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Nux Vomica manifests a dynamic cycle through mind and abdomen, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46130,
+       1
+      ],
+      [
+       "anxiety about health",
+       46185,
+       1
+      ],
+      [
+       "anxiety about health",
+       46197,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57233,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ]
+     ]
+    },
+    {
+     "abbrev": "Puls.",
+     "name": "Pulsatilla Pratensis",
+     "score": 24,
+     "match_count": 13,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46130,
+       "rubric": "Mind, anxiety, business, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Pulsatilla Pratensis",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Pulsatilla Pratensis manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46130,
+       1
+      ],
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46197,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       46261,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Nit-ac.",
+     "name": "Nitricum Acidum",
+     "score": 21,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 68179,
+       "rubric": "Sleep, sleeplessness, night, midnight",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Nitricum Acidum",
+      "segment_matches": [
+       "Mental sadness"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Nitricum Acidum manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       3
+      ],
+      [
+       "anxiety about health",
+       103724,
+       3
+      ],
+      [
+       "anxiety about health",
+       103835,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       3
+      ],
+      [
+       "fear of death",
+       47969,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Sil.",
+     "name": "Silicea Terra",
+     "score": 21,
+     "match_count": 11,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46200,
+       "rubric": "Mind, anxiety, health, about, especially during climacteric period",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46298,
+       "rubric": "Mind, anxiety, trifles, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57149,
+       "rubric": "Sleep, sleeplessness, night, midnight, after",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Silicea Terra",
+      "segment_matches": [
+       "Constitutional vulnerability"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Silicea Terra manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       46200,
+       1
+      ],
+      [
+       "anxiety about health",
+       46298,
+       2
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57221,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Bry.",
+     "name": "Bryonia Alba",
+     "score": 20,
+     "match_count": 12,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46130,
+       "rubric": "Mind, anxiety, business, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Bryonia Alba",
+      "segment_matches": [
+       "Mental confusion"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Bryonia Alba manifests a dynamic cycle through head and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46130,
+       1
+      ],
+      [
+       "anxiety about health",
+       46185,
+       1
+      ],
+      [
+       "anxiety about health",
+       46197,
+       3
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       56937,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Lach.",
+     "name": "Lachesis Muta",
+     "score": 20,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46261,
+       "rubric": "Mind, anxiety, salvation, about",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Lachesis Muta",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Lachesis Muta manifests a dynamic cycle through mind and head, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       1
+      ],
+      [
+       "anxiety about health",
+       46197,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       46261,
+       3
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       3
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       2
+      ]
+     ]
+    },
+    {
+     "abbrev": "Ph-ac.",
+     "name": "Phosphoricum Acidum",
+     "score": 20,
+     "match_count": 11,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46199,
+       "rubric": "Mind, anxiety, health, about",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103724,
+       "rubric": "Mind, anxiety, health",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 103835,
+       "rubric": "Mind, fear, disease",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57149,
+       "rubric": "Sleep, sleeplessness, night, midnight, after",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Phosphoricum Acidum",
+      "segment_matches": [
+       "Cephalic disturbance"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.021,
+      "segment_coverage": 0.167,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Phosphoricum Acidum manifests a dynamic cycle through mind and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46197,
+       2
+      ],
+      [
+       "anxiety about health",
+       46199,
+       1
+      ],
+      [
+       "anxiety about health",
+       103724,
+       1
+      ],
+      [
+       "anxiety about health",
+       103835,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Rhus-t.",
+     "name": "Rhus Toxicodendron",
+     "score": 20,
+     "match_count": 10,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46197,
+       "rubric": "Mind, anxiety, future, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57149,
+       "rubric": "Sleep, sleeplessness, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 68179,
+       "rubric": "Sleep, sleeplessness, night, midnight",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 68177,
+       "rubric": "Sleep, sleeplessness, night, after",
+       "source": "publicum",
+       "weight": 1,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Rhus Toxicodendron",
+      "segment_matches": [],
+      "segments_matched_count": 0,
+      "total_segments": 6,
+      "coverage": 0.0,
+      "segment_coverage": 0.0,
+      "generalized_hits": [],
+      "cycle_sentence": "Driven by limb expression, Rhus Toxicodendron manifests a dynamic cycle through general state and back, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46197,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       56937,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68177,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       1
+      ]
+     ]
+    },
+    {
+     "abbrev": "Aur.",
+     "name": "Aurum Metallicum",
+     "score": 18,
+     "match_count": 8,
+     "matches": [
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46261,
+       "rubric": "Mind, anxiety, salvation, about",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "anxiety about health",
+       "rubric_id": 46185,
+       "rubric": "Mind, anxiety, fear, with",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "anxiety about health fear mind disease illness"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57149,
+       "rubric": "Sleep, sleeplessness, night, midnight, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 68179,
+       "rubric": "Sleep, sleeplessness, night, midnight",
+       "source": "publicum",
+       "weight": 3,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      },
+      {
+       "query_symptom": "sleepless after midnight",
+       "rubric_id": 57194,
+       "rubric": "Sleep, sleeplessness, waking, after",
+       "source": "publicum",
+       "weight": 2,
+       "query_expanded": "sleepless after midnight sleep sleeplessness night waking"
+      }
+     ],
+     "cycle": {
+      "remedy_cycle": "Aurum Metallicum",
+      "segment_matches": [
+       "Mental sadness"
+      ],
+      "segments_matched_count": 1,
+      "total_segments": 6,
+      "coverage": 0.062,
+      "segment_coverage": 0.167,
+      "generalized_hits": [
+       "death"
+      ],
+      "cycle_sentence": "Driven by mind, Aurum Metallicum manifests a dynamic cycle through limb disturbance and general condition, looping back to its constitutional core.",
+      "map_of_hierarchy_phase": null,
+      "meets_threshold": false
+     },
+     "full_matches": [
+      [
+       "anxiety about health",
+       46185,
+       2
+      ],
+      [
+       "anxiety about health",
+       46261,
+       2
+      ],
+      [
+       "fear of death",
+       47963,
+       1
+      ],
+      [
+       "sleepless after midnight",
+       57149,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       57150,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       57194,
+       2
+      ],
+      [
+       "sleepless after midnight",
+       68179,
+       3
+      ],
+      [
+       "sleepless after midnight",
+       68180,
+       3
+      ]
+     ]
+    }
+   ]
+  }
+ ]
+}

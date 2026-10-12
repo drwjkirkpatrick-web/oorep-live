@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:">
+<title>OORep Live</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <div class="brand">
+      <div class="logo"><svg width="26" height="26" viewBox="0 0 26 26" fill="none"><rect width="26" height="26" rx="6" fill="#1a76d2"/><path d="M3 15h4l2-5 3 9 3-7 2 3h6" stroke="#5eead4" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+      <div><h1>OORep Live</h1><p class="tagline">offline repertory · live data</p></div>
+    </div>
+    <nav id="nav">
+      <button class="nav-btn active" data-view="repertorize">◈ Repertorize</button>
+      <button class="nav-btn" data-view="search">⌕ Repertory Search</button>
+      <button class="nav-btn" data-view="cycles">◎ Cycles</button>
+      <button class="nav-btn" data-view="live">◉ Live Data</button>
+      <button class="nav-btn" data-view="about">ℹ About</button>
+    </nav>
+    <div id="db-badge" class="db-badge loading"><span class="dot"></span><span id="db-badge-text">loading engine…</span></div>
+  </aside>
+  <main id="main"></main>
+</div>
+<script src="renderer.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+data/oorep.sqlite
+release/
+test/artifacts/
+data-sources/remedies.json
+data-sources/rubrics.json
+data-sources/rubric_to_remedies.json
+data-sources/rubric_search_index.json
+data-sources/metadata.json
+data-sources/cycles
+probe_vec.cjs
